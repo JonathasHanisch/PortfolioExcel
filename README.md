@@ -16,5 +16,5 @@ Zunächst wurden einige Operationen in XLOOKUP durchgeführt, um die Tabelle Bes
 
 - Nachdem alle Daten in der Tabelle waren, begann der Teil der Visualisierung.
 
-- - Schließlich wurden noch kleinere Änderungen an den Werten und der Übersetzung vorgenommen.
+- Schließlich wurden noch kleinere Änderungen an den Werten und der Übersetzung vorgenommen.
  
